@@ -1,4 +1,6 @@
 pymupdf
 langchain
 langgraph
-fitz
+pydantic
+python-dotenv
+langchain_google_genai

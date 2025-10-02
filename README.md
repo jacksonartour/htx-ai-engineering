@@ -274,6 +274,6 @@ Based on the analysis:
 
 Limitations in the workflow now include:
 - **Limited models** (gemini-2.5-flash instead of gpt-5):  using a reasoning model may work better for a more research heavy workflow
-- **Limited tools**: could possibly include more tools with access to internet or even internal data sources for more precise RAG methods
-- **Feedback loop and human intervention**: Modern workflows may require a human in the loop to validate current research steps, at certain parts of the workflow (e.g the revenue agent), we can pause execution and let a human determine whether the information gathered is sufficient to proceed. 
+- **Limited tooling**: could possibly include more tools with access to internet or even internal data sources for more precise RAG methods
+- **Feedback loop and human intervention**: Modern workflows may require a human in the loop to validate current research steps, at certain parts of the workflow (e.g the revenue agent), we can pause execution and let a human determine whether the information gathered is sufficient to proceed. There can also be a possibility of including a form of _critique agent_ to validate the outputs from the revenue and expenditure agent, but wasn't implemented due to interest of time
 

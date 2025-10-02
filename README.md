@@ -1,6 +1,7 @@
 # htx-ai-engineering
 Take home test for ai engineering. This README documents the project requirements, dependencies and approach on the various tasks for the project. 
 
+Refer to the ai-agents.ipynb file for the full execution documentation
 
 ## Project structure
 
